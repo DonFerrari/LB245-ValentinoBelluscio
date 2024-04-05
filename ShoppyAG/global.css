@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray: #707070;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-4xl: 23px;
+}

@@ -1,0 +1,252 @@
+.rechteck-4,
+.rechteck-5 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  width: 44px;
+  height: 35px;
+}
+.rechteck-5 {
+  position: absolute;
+  top: 37px;
+  left: 1179px;
+  box-sizing: border-box;
+}
+.rechteck-4 {
+  top: 34px;
+  left: 893px;
+  cursor: pointer;
+}
+.linie-1,
+.rechteck-3,
+.rechteck-4 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.rechteck-3 {
+  top: 37px;
+  left: 516px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  width: 44px;
+  height: 35px;
+  cursor: pointer;
+}
+.linie-1 {
+  top: 102.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-dimgray);
+  width: 100%;
+  height: 2px;
+}
+.shoppyag {
+  position: absolute;
+  top: 31px;
+  left: 55px;
+  color: var(--color-black);
+}
+.die-einstellungen-icon,
+.einkaufswagen-icon {
+  position: absolute;
+  top: 22px;
+  right: 35px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.einkaufswagen-icon {
+  top: 17px;
+  right: 186px;
+  border-radius: var(--br-4xl);
+  width: 68px;
+  height: 68px;
+}
+.einkaufen,
+.linie-2-icon,
+.linie-3-icon {
+  position: absolute;
+  top: 32px;
+  left: 385px;
+  cursor: pointer;
+}
+.linie-2-icon,
+.linie-3-icon {
+  top: 45.5px;
+  left: 521px;
+  width: 16.78px;
+  height: 20.62px;
+}
+.linie-3-icon {
+  left: 537.5px;
+}
+.linie-4,
+.linie-5 {
+  position: absolute;
+  top: -0.5px;
+  border-right: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 2px;
+}
+.linie-4 {
+  left: 261.5px;
+  height: 104px;
+}
+.linie-5 {
+  right: 329.5px;
+  height: 101px;
+}
+.beste-angebote,
+.kontakt {
+  position: absolute;
+  top: 32px;
+}
+.beste-angebote {
+  left: 676px;
+  cursor: pointer;
+}
+.kontakt {
+  left: 1069px;
+}
+.linie-6-icon {
+  top: 41.5px;
+  left: 898px;
+  cursor: pointer;
+}
+.linie-6-icon,
+.linie-7-icon,
+.linie-8-icon,
+.linie-9-icon {
+  position: absolute;
+  width: 16.78px;
+  height: 20.62px;
+}
+.linie-7-icon {
+  top: 41.5px;
+  left: 914.5px;
+  cursor: pointer;
+}
+.linie-8-icon,
+.linie-9-icon {
+  top: 45.5px;
+  left: 1184px;
+}
+.linie-9-icon {
+  left: 1200.5px;
+}
+.web-1920-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-segoe-ui);
+}
+
+@media only screen and (max-width: 767px) {
+  .rechteck-4,
+  .rechteck-5,
+  .rechteck-3 {
+    width: 10%; /* Adjusted width for phone */
+    height: 7vh; /* Adjusted height for phone */
+  }
+
+  .rechteck-5 {
+    left: 70%; /* Adjusted left for phone */
+  }
+
+  .rechteck-4 {
+    left: 40%; /* Adjusted left for phone */
+  }
+
+  .rechteck-3 {
+    left: 20%; /* Adjusted left for phone */
+  }
+
+  .linie-1 {
+    top: 9.38vh; /* Adjusted top for phone */
+    height: 0.18vh; /* Adjusted height for phone */
+  }
+
+  .shoppyag {
+    top: 2.87vh; /* Adjusted top for phone */
+    left: 3.24%; /* Adjusted left for phone */
+  }
+
+  .die-einstellungen-icon,
+  .einkaufswagen-icon {
+    top: 2.04vh; /* Adjusted top for phone */
+    right: 3.13%; /* Adjusted right for phone */
+    width: 15%; /* Adjusted width for phone */
+    height: 15vh; /* Adjusted height for phone */
+  }
+
+  .einkaufswagen-icon {
+    top: 1.57vh; /* Adjusted top for phone */
+    right: 9.75%; /* Adjusted right for phone */
+    width: 17%; /* Adjusted width for phone */
+    height: 17vh; /* Adjusted height for phone */
+  }
+
+  .einkaufen,
+  .linie-2-icon,
+  .linie-3-icon {
+    top: 2.96vh; /* Adjusted top for phone */
+    left: 19.95%; /* Adjusted left for phone */
+  }
+
+  .linie-2-icon,
+  .linie-3-icon {
+    top: 4.18vh; /* Adjusted top for phone */
+    width: 1%; /* Adjusted width for phone */
+    height: 1.5vh; /* Adjusted height for phone */
+  }
+
+  .linie-3-icon {
+    left: 28.42%; /* Adjusted left for phone */
+  }
+
+  .linie-4 {
+    left: 13.66%; /* Adjusted left for phone */
+    height: 9.63vh; /* Adjusted height for phone */
+  }
+
+  .linie-5 {
+    right: 16.61%; /* Adjusted right for phone */
+    height: 9.35vh; /* Adjusted height for phone */
+  }
+
+  .beste-angebote,
+  .kontakt {
+    top: 2.96vh; /* Adjusted top for phone */
+  }
+
+  .beste-angebote {
+    left: 35.3%; /* Adjusted left for phone */
+  }
+
+  .kontakt {
+    left: 55.9%; /* Adjusted left for phone */
+  }
+
+  .linie-6-icon {
+    top: 3.85vh; /* Adjusted top for phone */
+    left: 36.74%; /* Adjusted left for phone */
+  }
+
+  .linie-7-icon {
+    top: 3.85vh; /* Adjusted top for phone */
+    left: 37.9%; /* Adjusted left for phone */
+  }
+
+  .linie-8-icon,
+  .linie-9-icon {
+    top: 4.18vh; /* Adjusted top for phone */
+    left: 61.56%; /* Adjusted left for phone */
+  }
+
+  .linie-9-icon {
+    left: 62.72%; /* Adjusted left for phone */
+  }
+}

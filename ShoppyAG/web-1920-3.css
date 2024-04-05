@@ -1,0 +1,162 @@
+.rechteck-42,
+.rechteck-52 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  width: 44px;
+  height: 35px;
+}
+.rechteck-52 {
+  position: absolute;
+  top: 37px;
+  left: 1179px;
+  box-sizing: border-box;
+}
+.rechteck-42 {
+  top: 34px;
+  left: 893px;
+}
+.linie-13,
+.rechteck-32,
+.rechteck-42 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.rechteck-32 {
+  top: 37px;
+  left: 516px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  width: 44px;
+  height: 35px;
+}
+.linie-13 {
+  top: 102.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-dimgray);
+  width: 100%;
+  height: 2px;
+}
+.shoppyag2 {
+  position: absolute;
+  top: 31px;
+  left: 55px;
+  color: var(--color-black);
+  cursor: pointer;
+}
+.die-einstellungen-icon1,
+.einkaufswagen-icon2 {
+  position: absolute;
+  top: 22px;
+  right: 35px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.einkaufswagen-icon2 {
+  top: 17px;
+  right: 186px;
+  border-radius: var(--br-4xl);
+  width: 68px;
+  height: 68px;
+}
+.einkaufen2 {
+  position: absolute;
+  top: 32px;
+  left: 385px;
+}
+.linie-2-icon2,
+.linie-3-icon2 {
+  position: absolute;
+  top: 45.5px;
+  left: 521px;
+  width: 16.78px;
+  height: 20.62px;
+}
+.linie-3-icon2 {
+  left: 537.5px;
+}
+.linie-42,
+.linie-52 {
+  position: absolute;
+  top: -0.5px;
+  border-right: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 2px;
+}
+.linie-42 {
+  left: 261.5px;
+  height: 104px;
+}
+.linie-52 {
+  right: 329.5px;
+  height: 101px;
+}
+.beste-angebote2,
+.kontakt2 {
+  position: absolute;
+  top: 32px;
+  left: 676px;
+}
+.kontakt2 {
+  left: 1069px;
+}
+.linie-6-icon2,
+.linie-7-icon2,
+.linie-8-icon2,
+.linie-9-icon2,
+.rechteck-7 {
+  position: absolute;
+  top: 41.5px;
+  left: 898px;
+  width: 16.78px;
+  height: 20.62px;
+}
+.linie-7-icon2,
+.linie-8-icon2,
+.linie-9-icon2,
+.rechteck-7 {
+  left: 914.5px;
+}
+.linie-8-icon2,
+.linie-9-icon2,
+.rechteck-7 {
+  top: 45.5px;
+  left: 1184px;
+}
+.linie-9-icon2,
+.rechteck-7 {
+  left: 1200.5px;
+}
+.rechteck-7 {
+  top: 104px;
+  left: 263px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1327px;
+  height: 282px;
+}
+.beliebt,
+.kategorien,
+.neue-angebote {
+  position: absolute;
+  top: 133px;
+  left: 341px;
+}
+.beliebt,
+.kategorien {
+  top: 213px;
+}
+.beliebt {
+  top: 298px;
+}
+.web-1920-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-segoe-ui);
+}

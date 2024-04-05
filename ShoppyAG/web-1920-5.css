@@ -1,0 +1,163 @@
+.rechteck-44,
+.rechteck-54 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  width: 44px;
+  height: 35px;
+}
+.rechteck-54 {
+  position: absolute;
+  top: 37px;
+  left: 1179px;
+  box-sizing: border-box;
+}
+.rechteck-44 {
+  top: 34px;
+  left: 893px;
+}
+.linie-15,
+.rechteck-34,
+.rechteck-44 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.rechteck-34 {
+  top: 37px;
+  left: 516px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  width: 44px;
+  height: 35px;
+}
+.linie-15 {
+  top: 102.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-dimgray);
+  width: 100%;
+  height: 2px;
+}
+.shoppyag4 {
+  position: absolute;
+  top: 31px;
+  left: 55px;
+  color: var(--color-black);
+  cursor: pointer;
+}
+.die-einstellungen-icon3,
+.einkaufswagen-icon4 {
+  position: absolute;
+  top: 22px;
+  right: 35px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.einkaufswagen-icon4 {
+  top: 17px;
+  right: 186px;
+  border-radius: var(--br-4xl);
+  width: 68px;
+  height: 68px;
+}
+.einkaufen4 {
+  position: absolute;
+  top: 32px;
+  left: 385px;
+}
+.linie-2-icon4,
+.linie-3-icon4 {
+  position: absolute;
+  top: 45.5px;
+  left: 521px;
+  width: 16.78px;
+  height: 20.62px;
+}
+.linie-3-icon4 {
+  left: 537.5px;
+}
+.linie-44,
+.linie-54 {
+  position: absolute;
+  top: -0.5px;
+  border-right: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 2px;
+}
+.linie-44 {
+  left: 261.5px;
+  height: 104px;
+}
+.linie-54 {
+  right: 329.5px;
+  height: 101px;
+}
+.beste-angebote4,
+.kontakt4,
+.linie-6-icon4 {
+  position: absolute;
+  top: 32px;
+  left: 676px;
+}
+.kontakt4,
+.linie-6-icon4 {
+  left: 1069px;
+}
+.linie-6-icon4 {
+  top: 41.5px;
+  left: 898px;
+  width: 16.78px;
+  height: 20.62px;
+}
+.linie-7-icon4,
+.linie-8-icon4,
+.linie-9-icon4,
+.rechteck-72 {
+  position: absolute;
+  top: 41.5px;
+  left: 914.5px;
+  width: 16.78px;
+  height: 20.62px;
+}
+.linie-8-icon4,
+.linie-9-icon4,
+.rechteck-72 {
+  top: 45.5px;
+  left: 1184px;
+}
+.linie-9-icon4,
+.rechteck-72 {
+  left: 1200.5px;
+}
+.rechteck-72 {
+  top: 104px;
+  left: 1057px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 533px;
+  height: 282px;
+}
+.ber-uns,
+.kontaktiere-uns,
+.support {
+  position: absolute;
+  top: 157px;
+  left: 1086px;
+}
+.ber-uns,
+.kontaktiere-uns {
+  top: 235px;
+}
+.kontaktiere-uns {
+  top: 313px;
+}
+.web-1920-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-segoe-ui);
+}
